@@ -1,0 +1,27 @@
+/* stuff for button functionality */
+.button1 {
+  background-color: rgb(210, 40, 40);
+  border-radius: 5%;
+  border: black;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button2 {
+  background-color: rgb(71, 170, 58);
+  border-radius: 5%;
+  border: black;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
